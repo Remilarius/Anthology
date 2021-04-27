@@ -7,11 +7,19 @@
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Facet/</loc>
+    <loc>https://remilarius.github.io/Facet/elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Facet/posts/</loc>
   </url>
   
   <url>
     <loc>https://remilarius.github.io/Facet/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Facet/</loc>
   </url>
   
 </urlset>
