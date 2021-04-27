@@ -1,3 +1,4 @@
 baseURL = "https://remilarius.github.io/Facet/"
 languageCode = "en-us"
 title = "Hugo Site"
+disableKinds = ["taxonomy", "taxonomyTerm"]
