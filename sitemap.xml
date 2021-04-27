@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://remilarius.github.io/Facet/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://remilarius.github.io/Facet/elements/</loc>
   </url>
   
@@ -24,10 +20,6 @@
   
   <url>
     <loc>https://remilarius.github.io/Facet/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://remilarius.github.io/Facet/tags/</loc>
   </url>
   
 </urlset>
