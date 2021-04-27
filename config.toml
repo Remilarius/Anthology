@@ -1,4 +1,6 @@
 baseURL = "https://remilarius.github.io/Facet/"
 languageCode = "en-us"
 title = "Hugo Site"
+theme = "dimension"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+publishDir = "public"
