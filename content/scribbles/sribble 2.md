@@ -1,6 +1,4 @@
 ---
-title: "Post 2"
+title: "Scribble 2"
 description: "Post 2"
-icon: "flag"
 ---
-

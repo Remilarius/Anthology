@@ -1,6 +1,6 @@
 ---
-title: Joy Lin
-description: A great human probably
+title: Anthology
+description: I might be human
 background: "images/bg.jpg"
 logo:
 ---

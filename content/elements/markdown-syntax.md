@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
+title = "Markdown Syntax"
+date = "2018-03-01"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",
