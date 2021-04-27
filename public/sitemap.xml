@@ -3,23 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://remilarius.github.io/Facet/elements/</loc>
+    <loc>https://remilarius.github.io/Anthology/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Facet/</loc>
+    <loc>https://remilarius.github.io/Anthology/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Facet/posts/post-1/</loc>
+    <loc>https://remilarius.github.io/Anthology/posts/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Facet/posts/post-2/</loc>
+    <loc>https://remilarius.github.io/Anthology/posts/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Facet/posts/</loc>
+    <loc>https://remilarius.github.io/Anthology/posts/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/posts/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/posts/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/posts/post-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/thoughts/post-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/posts/post-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/thoughts/post-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/thoughts/</loc>
   </url>
   
 </urlset>
