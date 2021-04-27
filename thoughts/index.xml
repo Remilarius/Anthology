@@ -7,35 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://remilarius.github.io/Anthology/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post 1</title>
-      <link>https://remilarius.github.io/Anthology/thoughts/post-1/</link>
+      <title>Thought 1</title>
+      <link>https://remilarius.github.io/Anthology/thoughts/thought-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://remilarius.github.io/Anthology/thoughts/post-1/</guid>
-      <description>Which fa icons work
-moon
-star
-star-half
-flag
-gem
-clock
-eye
-eye-slash
-lemon
-microscope
-明月照高楼
-黑云盖着头
-大雨淋湿我
-我想跳高楼</description>
+      <guid>https://remilarius.github.io/Anthology/thoughts/thought-1/</guid>
+      <description>To be written</description>
     </item>
     
     <item>
-      <title>Post 2</title>
-      <link>https://remilarius.github.io/Anthology/thoughts/post-2/</link>
+      <title>Thought 2</title>
+      <link>https://remilarius.github.io/Anthology/thoughts/thought-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://remilarius.github.io/Anthology/thoughts/post-2/</guid>
-      <description></description>
+      <guid>https://remilarius.github.io/Anthology/thoughts/thought-2/</guid>
+      <description>To be written</description>
     </item>
     
   </channel>

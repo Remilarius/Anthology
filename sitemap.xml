@@ -4,41 +4,60 @@
   
   <url>
     <loc>https://remilarius.github.io/Anthology/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://remilarius.github.io/Anthology/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://remilarius.github.io/Anthology/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://remilarius.github.io/Anthology/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://remilarius.github.io/Anthology/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://remilarius.github.io/Anthology/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/posts/emoji-support/</loc>
+    <loc>https://remilarius.github.io/Anthology/elements/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/elements/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/elements/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/elements/</loc>
+    <loc>https://remilarius.github.io/Anthology/elements/placeholder-text/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/elements/markdown-syntax/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/dream-sequence/dream-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/dream-sequence/dream-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/dream-sequence/dream-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/dream-sequence/dream-4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/dream-sequence/dream-sequence/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/dream-sequence/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/elements/elements/</loc>
   </url>
   
   <url>
@@ -46,15 +65,31 @@
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/thoughts/post-1/</loc>
-  </url>
-  
-  <url>
     <loc>https://remilarius.github.io/Anthology/posts/post-2/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/thoughts/post-2/</loc>
+    <loc>https://remilarius.github.io/Anthology/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/scribbles/sribble-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/scribbles/sribble-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/scribbles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/thoughts/thought-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/thoughts/thought-2/</loc>
   </url>
   
   <url>
