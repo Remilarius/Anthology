@@ -1,4 +1,4 @@
-baseURL = "https://remilarius.github.io/Facet/"
+baseURL = "https://remilarius.github.io/Anthology/"
 languageCode = "en-us"
 title = "Hugo Site"
 theme = "dimension"
