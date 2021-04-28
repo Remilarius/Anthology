@@ -67,7 +67,7 @@
                                 
                                     
                                         <li>
-                                            <a href="#emoji-support">Emoji Support</a>
+                                            <a href="#math-typesetting">Math Typesetting</a>
                                         </li>
                                     
                                 
@@ -75,7 +75,7 @@
                                 
                                     
                                         <li>
-                                            <a href="#math-typesetting">Math Typesetting</a>
+                                            <a href="#set-up">Set-up</a>
                                         </li>
                                     
                                 
@@ -87,6 +87,25 @@
             
                 <div id="main">
 
+                    
+                        
+                            
+                                <article id="set-up">
+                                    <h2 class="major">Set-up</h2>
+                                    <span class="image main"><img src="" alt="" /></span>
+                                    <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">hugo new site quickstart  
+cd quickstart  
+git init  
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke  
+</code></pre></div><p>Change config toml:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">baseURL = &#34;https://example.org/&#34;
+languageCode = &#34;en-us&#34;
+title = &#34;My New Hugo Site&#34;
+theme = &#34;ananke&#34;
+</code></pre></div>
+                                </article>
+                            
+                        
                     
                         
                             
@@ -115,25 +134,6 @@
 $$
 \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
 $$</p>
-                                </article>
-                            
-                        
-                    
-                        
-                            
-                                <article id="emoji-support">
-                                    <h2 class="major">Emoji Support</h2>
-                                    <span class="image main"><img src="" alt="" /></span>
-                                    <p>Emoji can be enabled in a Hugo project in a number of ways.</p>
-<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
-<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
-<!-- raw HTML omitted -->
-<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
-<hr>
-<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}</code></pre></div>
                                 </article>
                             
                         

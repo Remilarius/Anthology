@@ -4,32 +4,42 @@
   
   <url>
     <loc>https://remilarius.github.io/Anthology/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://remilarius.github.io/Anthology/elements/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/elements/set-up/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://remilarius.github.io/Anthology/elements/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://remilarius.github.io/Anthology/elements/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://remilarius.github.io/Anthology/elements/placeholder-text/</loc>
-    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://remilarius.github.io/Anthology/elements/markdown-syntax/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/thoughts/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/scribbles/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -61,6 +71,10 @@
   </url>
   
   <url>
+    <loc>https://remilarius.github.io/Anthology/scribbles/battlefield/quarters/muse/</loc>
+  </url>
+  
+  <url>
     <loc>https://remilarius.github.io/Anthology/posts/post-1/</loc>
   </url>
   
@@ -73,15 +87,27 @@
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/sribble-1/</loc>
+    <loc>https://remilarius.github.io/Anthology/scribbles/scribble-1/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/sribble-2/</loc>
+    <loc>https://remilarius.github.io/Anthology/scribbles/scribble-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/scribbles/scribble-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/scribbles/scribble-4/</loc>
   </url>
   
   <url>
     <loc>https://remilarius.github.io/Anthology/scribbles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/scribbles/battlefield/quarters/siren/</loc>
   </url>
   
   <url>
@@ -93,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/thoughts/</loc>
+    <loc>https://remilarius.github.io/Anthology/warning/</loc>
   </url>
   
 </urlset>
