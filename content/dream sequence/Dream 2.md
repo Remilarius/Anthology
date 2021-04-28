@@ -2,5 +2,7 @@
 title: "Dream 2"
 description: "Post 1"
 ---
+Hidden
 
-To be written
+<!--04-28-2020  
+I had dream of her-->

@@ -1,7 +1,7 @@
 ---
 title: "Scribbles"
-description: "threads that float away"
-background: "images/bg.jpg"
-logo:
+description: "Threads that float away"
+icon: "flag"
+date: 2017-03-01
 ---
 

@@ -4,3 +4,7 @@ title = "Hugo Site"
 theme = "dimension"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 publishDir = "public"
+
+[mediaTypes]
+  [mediaTypes."text/htaccess"]
+    suffixes = ["htaccess"]
