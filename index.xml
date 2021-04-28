@@ -6,29 +6,30 @@
     <description>Recent content in Anthology on Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/Anthology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/Anthology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set-up</title>
+      <link>https://remilarius.github.io/Anthology/elements/set-up/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/Anthology/elements/set-up/</guid>
+      <description>hugo new site quickstart cd quickstart git init git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke Change config toml:
+baseURL = &amp;#34;https://example.org/&amp;#34; languageCode = &amp;#34;en-us&amp;#34; title = &amp;#34;My New Hugo Site&amp;#34; theme = &amp;#34;ananke&amp;#34; </description>
+    </item>
+    
     <item>
       <title>Math Typesetting</title>
       <link>https://remilarius.github.io/Anthology/elements/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://remilarius.github.io/Anthology/elements/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>https://remilarius.github.io/Anthology/elements/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://remilarius.github.io/Anthology/elements/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Placeholder Text</title>
       <link>https://remilarius.github.io/Anthology/elements/placeholder-text/</link>
-      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://remilarius.github.io/Anthology/elements/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
@@ -49,7 +50,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://remilarius.github.io/Anthology/dream-sequence/dream-1/</guid>
-      <description></description>
+      <description>Hidden
+  </description>
     </item>
     
     <item>
@@ -58,7 +60,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://remilarius.github.io/Anthology/dream-sequence/dream-2/</guid>
-      <description>To be written</description>
+      <description>Hidden
+  </description>
     </item>
     
     <item>
@@ -99,6 +102,15 @@ Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++
     </item>
     
     <item>
+      <title>Muse</title>
+      <link>https://remilarius.github.io/Anthology/scribbles/battlefield/quarters/muse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/Anthology/scribbles/battlefield/quarters/muse/</guid>
+      <description>Siren</description>
+    </item>
+    
+    <item>
       <title>Post 1</title>
       <link>https://remilarius.github.io/Anthology/posts/post-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -132,19 +144,46 @@ microscope
     
     <item>
       <title>Scribble 1</title>
-      <link>https://remilarius.github.io/Anthology/scribbles/sribble-1/</link>
+      <link>https://remilarius.github.io/Anthology/scribbles/scribble-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://remilarius.github.io/Anthology/scribbles/sribble-1/</guid>
+      <guid>https://remilarius.github.io/Anthology/scribbles/scribble-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scribble 2</title>
-      <link>https://remilarius.github.io/Anthology/scribbles/sribble-2/</link>
+      <link>https://remilarius.github.io/Anthology/scribbles/scribble-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://remilarius.github.io/Anthology/scribbles/sribble-2/</guid>
+      <guid>https://remilarius.github.io/Anthology/scribbles/scribble-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scribble 3</title>
+      <link>https://remilarius.github.io/Anthology/scribbles/scribble-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/Anthology/scribbles/scribble-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scribble 4</title>
+      <link>https://remilarius.github.io/Anthology/scribbles/scribble-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/Anthology/scribbles/scribble-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siren</title>
+      <link>https://remilarius.github.io/Anthology/scribbles/battlefield/quarters/siren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/Anthology/scribbles/battlefield/quarters/siren/</guid>
       <description></description>
     </item>
     
