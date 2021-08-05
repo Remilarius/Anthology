@@ -1,47 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scribbles on Hugo Site</title>
+    <title>X-IT on Hugo Site</title>
     <link>https://remilarius.github.io/Anthology/scribbles/</link>
-    <description>Recent content in Scribbles on Hugo Site</description>
+    <description>Recent content in X-IT on Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/Anthology/scribbles/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Scribble 1</title>
-      <link>https://remilarius.github.io/Anthology/scribbles/scribble-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://remilarius.github.io/Anthology/scribbles/scribble-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scribble 2</title>
-      <link>https://remilarius.github.io/Anthology/scribbles/scribble-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://remilarius.github.io/Anthology/scribbles/scribble-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scribble 3</title>
-      <link>https://remilarius.github.io/Anthology/scribbles/scribble-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://remilarius.github.io/Anthology/scribbles/scribble-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scribble 4</title>
-      <link>https://remilarius.github.io/Anthology/scribbles/scribble-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://remilarius.github.io/Anthology/scribbles/scribble-4/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://remilarius.github.io/Anthology/scribbles/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
