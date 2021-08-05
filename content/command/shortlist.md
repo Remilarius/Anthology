@@ -6,13 +6,6 @@ weight: 2
 
 BGS as an entity?
 
-
-Cases:
-
-Uncle: Employment
-Danjuan: Passport/AIDT Stamp
-Meidan: Verizon and Capitol One
-
 Emails:  
 Contact Ben about drone equipment  
 Contact Rachel about nectar funding for bike  
