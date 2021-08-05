@@ -8,3 +8,6 @@ publishDir = "public"
 [mediaTypes]
   [mediaTypes."text/htaccess"]
     suffixes = ["htaccess"]
+
+[markup.goldmark.renderer]
+unsafe = true

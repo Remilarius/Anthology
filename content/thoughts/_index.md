@@ -1,6 +1,6 @@
 ---
 title: "Thoughts"
 description: "A collection of thoughts"
-icon: 
+logo: 
 date: 2018-03-01
 ---
