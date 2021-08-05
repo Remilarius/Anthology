@@ -17,6 +17,11 @@ Model: Brother Laserjet HL-L2380DW
 Ink: Toner
 
 ---
+<div style="text-align: center;">  
+
+## How To
+</div>
+
 ### How to Reach Someone at USCIS
 1. USCIS number is 800-375-5283
 2. Say Infopass
@@ -131,3 +136,9 @@ Ink: Toner
 	- Windbreaker
 	- Harvard Sweater
 	- CQR and Whitetail shirts
+
+
+<div style="text-align: center;">  
+
+### [Home](/Anthology)
+</div>

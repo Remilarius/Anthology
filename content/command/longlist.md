@@ -70,3 +70,8 @@ weight: 3
 ### Music
 1. La Donna e mobile
 2. Danube
+
+<div style="text-align: center;">  
+
+### [Home](/Anthology)
+</div>

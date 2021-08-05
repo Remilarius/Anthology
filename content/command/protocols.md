@@ -14,7 +14,6 @@ When I stop breaking down my day, contact Leo because my scheduling system is br
 
 ### Projects
 1. Graduate college and maybe go to grad school
-	-
 2. Write Magnum Opus
 3. UC 
 4. Interlock
@@ -31,3 +30,8 @@ Adam Conditionals
 
 Actions:
 Check groupme every 3 hours
+
+<div style="text-align: center;">  
+
+### [Home](/Anthology)
+</div>

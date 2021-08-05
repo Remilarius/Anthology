@@ -94,19 +94,3 @@ I've think I've told her once before that the worst thing someone could do to me
 because I'm powerless
 
 I am a magnificent bastard, and I won't emotions of all things bring me down.
-
-Chik-fil-A
-1/4 cup mayo
-2 tbsp honey
-1 tbsp yellow mustard
-2 tsp Dijon mustard
-2 tsp lemon juice
-2 tbsp BBQ sauce
-
-Raising Cane's
-- Mayo
-- Ketchup
-- Worcestershire sauce
-- garlic powder
-- salt
-- peppper 

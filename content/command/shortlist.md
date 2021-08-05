@@ -4,13 +4,11 @@ description: "Post 1"
 weight: 2
 ---
 
-BGS as an entity?
-
 Emails:  
 Contact Ben about drone equipment  
 Contact Rachel about nectar funding for bike  
 
-## Major
+### Major
 1. Taxes for ad (set for next year, IT-201 plus 1040, plus education credits from Kevin)
 
 ### SEAS
@@ -49,3 +47,12 @@ Contact Rachel about nectar funding for bike
 
 ### Misc
 1. Susana's Birthday (Aug 15), buy her a book.
+2. Find Adam a watch (Go to Swiss Watchmakes pass Felipe's?)
+
+### Research
+1. Incorporate BGS as an entity
+
+<div style="text-align: center;">  
+
+### [Home](/Anthology)
+</div>

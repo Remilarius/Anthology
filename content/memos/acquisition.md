@@ -12,7 +12,10 @@ Project bubbles or trees
 
 Sumbit Nectar funding application for motorizing bike
 
-## Summer
 ### Anticipated Purchases
-Texas Roadhouse
-Apple Pen for $89
+Apple Pencil for $89
+
+<div style="text-align: center;">  
+
+### [Home](/Anthology)
+</div>
