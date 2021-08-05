@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://remilarius.github.io/Anthology/command/dailylist/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/command/shortlist/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/command/longlist/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/command/respond/</loc>
+  </url>
+  
+  <url>
     <loc>https://remilarius.github.io/Anthology/</loc>
     <lastmod>2019-12-11T00:00:00+00:00</lastmod>
   </url>
@@ -28,6 +44,21 @@
   </url>
   
   <url>
+    <loc>https://remilarius.github.io/Anthology/thoughts/tidbits/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/thoughts/conceits/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/thoughts/excerpts/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://remilarius.github.io/Anthology/elements/markdown-syntax/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -38,32 +69,44 @@
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/dream-sequence/dream-1/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/acquisition/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/dream-sequence/dream-2/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/bgs/adam/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/dream-sequence/dream-3/</loc>
+    <loc>https://remilarius.github.io/Anthology/notes/animation/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/dream-sequence/dream-4/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/archive/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/dream-sequence/dream-sequence/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/bgs/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/dream-sequence/</loc>
+    <loc>https://remilarius.github.io/Anthology/notes/consume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/bgs/diego/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/thoughts/draft/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/notes/ecs/</loc>
   </url>
   
   <url>
@@ -71,55 +114,111 @@
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/battlefield/quarters/muse/</loc>
+    <loc>https://remilarius.github.io/Anthology/command/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/posts/post-1/</loc>
+    <loc>https://remilarius.github.io/Anthology/notes/interlock/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/posts/post-2/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/bgs/ivor/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/posts/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/bgs/joanna/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/scribble-1/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/bgs/joy/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/scribble-2/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/bgs/leo/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/scribble-3/</loc>
+    <loc>https://remilarius.github.io/Anthology/thoughts/lyrics/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/scribble-4/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/people/mail/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/odyssey/muse/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/battlefield/quarters/siren/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/people/notables/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/thoughts/thought-1/</loc>
+    <loc>https://remilarius.github.io/Anthology/notes/</loc>
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/thoughts/thought-2/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/odyssey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/opus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/people/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/opus/players/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/command/protocols/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/bgs/quincy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/notes/random/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/repository/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/bgs/saba/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/opus/scraps/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/siren/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/bgs/stephon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/people/visit/</loc>
   </url>
   
   <url>
     <loc>https://remilarius.github.io/Anthology/warning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/memos/battlefield/quarters/opus/worldbuilding/</loc>
+  </url>
+  
+  <url>
+    <loc>https://remilarius.github.io/Anthology/scribbles/</loc>
   </url>
   
 </urlset>

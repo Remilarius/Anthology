@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Hugo Site</title>
+    <link>https://remilarius.github.io/Anthology/notes/</link>
+    <description>Recent content in Notes on Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://remilarius.github.io/Anthology/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animation</title>
+      <link>https://remilarius.github.io/Anthology/notes/animation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/Anthology/notes/animation/</guid>
+      <description>Before getting started  Disney Animation: The Illusion of Life Make sure hardware can render (RTX and whatnot)  One man operations  Monty Oum (RvB, RWBY, Dead Fantasy) Syama Pederson (Astartes)  Costs:  Autodesk Maya: $1,500 per year as a subscription (I think Maya is free due to educational license for me) Blender (Free) Poser (Free)  Monty Oum (RvB, RWBY, Dead Fantasy) Applications: Source
+RWBY Workflow  Primarily Smith Micro&amp;rsquo;s Poser (RvB and RWBY both, he noted the efficiency) Assets were built in Autodesk Maya -&amp;gt; imported in Poser for rigging and texturing MoCap OptiTrack’s Arena, BVH (Biovision Hierarchial Data) -&amp;gt; imposed on the Poser rigs and cleaned up  List: Poser Pro, Maya, ZBrush, Softimage, 3ds Max, After Effects, Premiere, Photoshop, particleIllusion</description>
+    </item>
+    
+    <item>
+      <title>Consumption</title>
+      <link>https://remilarius.github.io/Anthology/notes/consume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/Anthology/notes/consume/</guid>
+      <description>Games that lame Mac users can&amp;rsquo;t play
+ Risk of Rain 2 Soldat Space Engineers Prop Hunt  Games we maybe can play
+ Broforce Nidhogg Rocket League CSGO Prop Hunt  Random Games
+ Moons of Madness  Movies:
+ The Heist of the Century (HBO Max) Akila and the Bee  Reading List
+ Isaac Asimov Life of Pi Basic Economics by Thomas Sowell (Oswaldo) What if? by Randall Monroe Tribe by Sebastian Junger Intro to Quantum Mechanics by David Griffiths How not to be wrong by Jordan Ellenberg Hitchhiker&amp;rsquo;s Guide to the Galaxy Convenience Store Woman (Lara) To Think Like a Monk (McCleery) 12 Angry Men 7 Husbands of Evelyn Hugo (Susana) All Quiet on the Western Front The Count of Monte Cristo The Stranger Slaughter House 5 Man&amp;rsquo;s Search for Meaning  </description>
+    </item>
+    
+    <item>
+      <title>ECS</title>
+      <link>https://remilarius.github.io/Anthology/notes/ecs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/Anthology/notes/ecs/</guid>
+      <description>Primus:
+PRIMUS Grace wants
+ Corporate sponsorships Resume book  UC:</description>
+    </item>
+    
+    <item>
+      <title>Interlock</title>
+      <link>https://remilarius.github.io/Anthology/notes/interlock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/Anthology/notes/interlock/</guid>
+      <description>Documentation: Stephon CAD Engine: Saba </description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://remilarius.github.io/Anthology/notes/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/Anthology/notes/random/</guid>
+      <description>Random Notes:
+ Serbian combat divers? Infinity Train Flicking toothpicks r/Stellaris &amp;ldquo;All appearances of Ecumenopolis&amp;rdquo; Dimitrescu Destiny&amp;rsquo;s Speaker quote UC on Apollo.io Field Marshal Zhukov Teutons Al Shamac  2  Abbacus multiplication Software for dancers (choreography) Teapot physics?  3  Vinyl cutter circuits Sotnik armor Bionic Boot (Ostrich stride)  4  Kytch Apijet  5   Windows Godmode
+  Mongolian Song: Tengri 天堂
+  QSSYMM OST</description>
+    </item>
+    
+  </channel>
+</rss>

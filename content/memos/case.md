@@ -1,8 +1,9 @@
 ---
 title: "Cases"
-draft: true
+draft: false
 ---
 
+<!---
 ### DAD
 - Birthday: 05/09/1977
 - SSN: 066-82-4237
@@ -74,3 +75,4 @@ Birthday: October 27, 1994
 Address: 625-50th St 2FL Brooklyn, New York 11220
 Email: 
 Phone number: 646-520-5530
+--->

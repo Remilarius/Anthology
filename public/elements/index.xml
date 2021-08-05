@@ -13,8 +13,7 @@
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://remilarius.github.io/Anthology/elements/set-up/</guid>
-      <description>hugo new site quickstart cd quickstart git init git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke Change config toml:
-baseURL = &amp;#34;https://example.org/&amp;#34; languageCode = &amp;#34;en-us&amp;#34; title = &amp;#34;My New Hugo Site&amp;#34; theme = &amp;#34;ananke&amp;#34; </description>
+      <description>Haven&amp;rsquo;t been able to replicate, good luck. hugo new site quickstart cd quickstart git init git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke  Change config toml: baseURL = &amp;quot;https://example.org/&amp;quot;languageCode = &amp;quot;en-us&amp;quot;title = &amp;quot;My New Hugo Site&amp;quot;theme = &amp;quot;ananke&amp;quot; Commands to get on Github pages cd public &amp;amp;&amp;amp; git add --all &amp;amp;&amp;amp; git commit -m &amp;quot;Publishing to gh-pages&amp;quot; &amp;amp;&amp;amp; cd ..git worktree add -B gh-pages public upstream/gh-pages$ git worktree add -B gh-pages public origin/gh-pagesgit push upstream gh-pagesgit push origin gh-pagesgit push Facet gh-pages To use html, add line to config.</description>
     </item>
     
     <item>
