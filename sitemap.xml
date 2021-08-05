@@ -94,6 +94,10 @@
   </url>
   
   <url>
+    <loc>https://remilarius.github.io/Anthology/memos/case/</loc>
+  </url>
+  
+  <url>
     <loc>https://remilarius.github.io/Anthology/notes/consume/</loc>
   </url>
   
@@ -218,7 +222,7 @@
   </url>
   
   <url>
-    <loc>https://remilarius.github.io/Anthology/scribbles/</loc>
+    <loc>https://remilarius.github.io/Anthology/memos/</loc>
   </url>
   
 </urlset>
