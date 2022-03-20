@@ -2,6 +2,32 @@
 title: "Draft"
 ---
 
+- Escape the city with Faith
+- Explore w/Kian
+- Show Giulia around
+
+- Throwing clay
+- Taking animation class
+
+She was on the swing next to me, in her pastel and flowery attire, and I looked down at myself, in my black pants and grey shoes, and I'd never felt so colorless before then.
+
+
+Give me hope when I shouldn't
+Lift my wings as they melt,
+Tell me I'll get through it,
+because I will
+but how do of myself is left?
+
+And I don't want it unless I can have it all.
+
+
+I've got too many problems
+I'm hoping I'll die before I have to solve em
+I don't know how it got complex
+I've built myself a god complex
+
+I dodge all the attempts to make me face my own feelings
+
 I can't feel anything, I can't be happy, can't be mad
 These days I just can't stay awake
 I don't know if I still wanna live
@@ -20,12 +46,10 @@ and even then I can't seem to that
 
 As the water closes over me,
 It's calm for once
-Is this the only way to know
-
+Is this the only way to know?
 
 Maybe I need other people to know what I am,
 If they tell me, maybe I could do it
-
 
 Why don't you give up then?
 Your actions and your words (don't make sense) are contradictory

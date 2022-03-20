@@ -4,26 +4,15 @@ description: "Post 1"
 weight: 3
 ---
 
-### Things coming up
-1. Eat stuff w/Grace and her crew before classes start in the fall
-2. Explore places w/Kian at some point in semester
-3. Show Giulia around campus
+### Hollis To-Do List
+1. Apple picking
+2. Nice dinner somewhere
+3. Group picture
 
 ### Academic Stuff
 [Saba's spreadsheet](https://docs.google.com/spreadsheets/d/1g1FCdVccGuf853vAYR91mUsZUD0gwJn3nNS1cFaE9Co/edit?ts=60bbc702#gid=0)
 1. Architecture?
 2. EC (EC10a/EC1010a/Ec1011a) or STAT (104/110) class? 
-
-### Clubs
-1. HRSFA/HAPIE
-2. Quidditch
-3. UC
-4. SEDS?
-5. PRIMUS
-6. HCEA/HCER?
-7. HURC?
-8. Archery
-9. IM Rep
 
 ### Utilities/Bills
 1. Pay off balances (11th of each month)
@@ -40,9 +29,8 @@ weight: 3
 	- Help him find tank game
 
 ### Fall Move-In
-1. Eat stuff w/Grace and her crew before classes start in the fall
-2. Explore places w/Kian at some point in semester
-3. Show Giulia around campus
+1. Explore places w/Kian at some point in semester
+2. Show Giulia around campus
 
 ### Winter Break
 1. House Party

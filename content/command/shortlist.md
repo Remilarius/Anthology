@@ -4,9 +4,33 @@ description: "Post 1"
 weight: 2
 ---
 
+Buy Curiosity Stream/Nebula.
+
+Things to acquire for dorm
+1. Rolling cart under sink
+
+Things to pick up from home
+1. Loofa 
+2. Dingbats Journal for Grace
+3. Lotion
+
+Acquistiion List
+1. Bad Dragon Esports Jersey
+
 Emails:  
 Contact Ben about drone equipment  
 Contact Rachel about nectar funding for bike  
+
+### Wintersession Plans
+1. Duck snowball fight
+2. Mahjong and Overcooked
+3. Watch Spiderman No Way Home/movie
+4. Stay in hotel with Grace
+5. Get meals with Stephon and UC Co.
+6. Wheel around Memorial Drive with Grace and Co.
+7. Cook something good.
+8. Double date w/Ivor and Caitlyn
+9. Make a globe with constellations for Grace
 
 ### Major
 1. Taxes for ad (set for next year, IT-201 plus 1040, plus education credits from Kevin)
@@ -16,9 +40,6 @@ Contact Rachel about nectar funding for bike
 2. Wrench Drawer
 
 ### Summer Smorgasbord
-- CHEM S-1AB
-- SEAS internship
-- UC
 - Interlock
 - Animation
 - Writing/World Building/Composing/Animating

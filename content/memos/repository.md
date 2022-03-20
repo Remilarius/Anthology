@@ -3,13 +3,6 @@ title: "Repository"
 description: ""
 ---
 
-Things that seem to tick BGS off:
-
-1. Carbon emissions
-2. FDA
-3. USPS
-
-
 <div style="text-align: center;">  
 
 ### Packkit
@@ -59,10 +52,45 @@ Yakisoda Noodles     			|Cheesecake				 |Ginger Ale	 	 |Shrimp Chips
 
 <div style="text-align: center;">  
 
+Menu Developement
+
+### Tomato and Eggs
+Chopped tomatoes
+Sugar
+Eggs
+-Toss chopped tomatos into pans with oil
+-Pour scrambled eggs in and throw some sugar in
+
+### Jean Georges Egg
+-served in a egg shell
+very soft scrambled eggs
+whipped cream
+caviar
+
+### Eggs Benedict
+English Muffin
+Ham
+Poached egg
+Hollandaise
+-egg yolk
+-butter
+-lemon juice
+Scallions
+
+### French Toast
+-Bread
+-Egg, milk, sugar
+
+### Glaze for Fried Taro
+-Hoison Sauce
+-Soy Sauce
+-Garlic
+-Sugar
+
 ### Sauces
 </div>
 
-Chik-Fil-A			  |Raising Cane's       |Dumpling Sauce     |Sauce
+Chik-Fil-A			  |Raising Cane's       |Dumpling Sauce     |Cajun Sauce
 ----------------------|---------------------|-------------------|-----
 1/4 cup mayo 		  |mayo 				|Soy Sauces			|mayo
 2 tbsp honey 		  |ketchup 				|Vinegar (Tsu)		|ketchup

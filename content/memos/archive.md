@@ -52,9 +52,13 @@ Ink: Toner
 3. Get Diagnostic report from Genius Bar
 4. Get last month's statement
 - Case Number: 101402497153
-- IMEI#: 359404085024207
+- IMEI#: 359404085024207 (iPhone X)
 - Wells Fargo replace phone (up tp $600) (1-866-804-4770)
 
+- Claim #2025686101
+- IMEI#: 353240108801817 (iPhone 11 Pro)
+- Serial Number (H08FL0KYN6XW)
+- Card Number: 4147-1802-9538-1087
 ---
 <div style="text-align: center;">  
 
